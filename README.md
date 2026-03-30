@@ -1,4 +1,5 @@
-# 🔐 JA4 Encrypted Traffic Monitor
+
+# 🔐 JA4 Traffic Monitor
 
 ## 🚀 Features
 - TLS traffic capture
@@ -11,11 +12,11 @@
 ## 🛠 Tech Stack
 - Python (Scapy, Flask)
 - SQLite
-- Chart.js (optional)
+- Chart.js
 
 ## ▶️ Run
 pip install -r requirements.txt  
-python capture.py  
+sudo venv/bin/python capture.py  
 python app.py  
 
 ## 🎯 Objective
