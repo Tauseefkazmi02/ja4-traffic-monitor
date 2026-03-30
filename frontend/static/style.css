@@ -1,0 +1,25 @@
+body {
+    background: black;
+    color: #00ff00;
+    font-family: monospace;
+}
+
+h1 {
+    text-align: center;
+    text-shadow: 0 0 10px #00ff00;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+th, td {
+    border: 1px solid #00ff00;
+    padding: 8px;
+    text-align: center;
+}
+
+tr:hover {
+    background: #002200;
+}
